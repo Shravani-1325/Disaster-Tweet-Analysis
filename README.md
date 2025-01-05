@@ -78,7 +78,7 @@ Tested algorithms like **Logistic Regression**, **Random Forest**, and **Decisio
    ```
 3. Run the training script:
    ```bash
-   python train.py
+   Natural_Language_Processing_with_Disaster_Tweets.ipynb
    ```
 
 ## 🌟 Future Scope

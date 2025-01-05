@@ -70,7 +70,7 @@ Tested algorithms like **Logistic Regression**, **Random Forest**, and **Decisio
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/housing-price-prediction.git
+   git clone https://github.com/Shravani-1325/Disaster-Tweet-Analysis.git
    ```
 2. Install dependencies:
    ```bash
